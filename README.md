@@ -1,3 +1,5 @@
+SUBCLASS OF rpkg (https://pagure.io/rpkg) HEAVILY REUSING THE ORIGINAL SOURCE CODE
+
 ## HOW TO INSTALL
 
 # This script has been removed due to protect internal information
